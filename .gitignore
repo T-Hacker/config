@@ -83,3 +83,4 @@ zoomus.conf
 systemd/user
 obsidian
 evince
+helix/runtime/grammars
