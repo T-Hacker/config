@@ -1,6 +1,8 @@
-[font.normal]
-family = "FiraCode Nerd Font"
+[font]
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
 
 [window]
-decorations = "none"
-startup_mode = "Maximized"
+decorations = "None"
+
+[selection]
+save_to_clipboard = true
