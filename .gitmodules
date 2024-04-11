@@ -1,3 +1,3 @@
 [submodule "nvim"]
-	path = nvim
-	url = ssh://git@github.com:T-Hacker/AstroNvim.git
+path = nvim
+url = ssh://git@github.com:T-Hacker/AstroNvim.git
