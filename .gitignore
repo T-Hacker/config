@@ -84,3 +84,7 @@ systemd/user
 obsidian
 evince
 helix/runtime/grammars
+arena
+cef_user_data/WidevineCdm
+gSnap
+qBittorrent
